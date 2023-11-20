@@ -14,6 +14,4 @@ var numbers =[ 78, 55, 30, 22, 36];
 console.log(numbers);
 numbers.pop();
 console.log(numbers);
-//position number
-numbers.pop(1);
-console.log(numbers);
+
